@@ -1,0 +1,1727 @@
+Array
+(
+    [update_id] => 235244381
+    [message] => Array
+        (
+            [message_id] => 22729
+            [from] => Array
+                (
+                    [id] => 5292809379
+                    [is_bot] => 
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5292809379
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [type] => private
+                )
+
+            [date] => 1673437283
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244382
+    [message] => Array
+        (
+            [message_id] => 22730
+            [from] => Array
+                (
+                    [id] => 5292809379
+                    [is_bot] => 
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5292809379
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [type] => private
+                )
+
+            [date] => 1673437286
+            [text] => B
+        )
+
+)
+Array
+(
+    [update_id] => 235244383
+    [message] => Array
+        (
+            [message_id] => 22739
+            [from] => Array
+                (
+                    [id] => 5292809379
+                    [is_bot] => 
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 5292809379
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [type] => private
+                )
+
+            [date] => 1673438485
+            [text] => Ы
+        )
+
+)
+Array
+(
+    [update_id] => 235244384
+    [my_chat_member] => Array
+        (
+            [chat] => Array
+                (
+                    [id] => 1049467010
+                    [first_name] => Dron123
+                    [type] => private
+                )
+
+            [from] => Array
+                (
+                    [id] => 1049467010
+                    [is_bot] => 
+                    [first_name] => Dron123
+                    [language_code] => ru
+                )
+
+            [date] => 1673693459
+            [old_chat_member] => Array
+                (
+                    [user] => Array
+                        (
+                            [id] => 5145589614
+                            [is_bot] => 1
+                            [first_name] => Yugkabel
+                            [username] => YugkabelBot
+                        )
+
+                    [status] => member
+                )
+
+            [new_chat_member] => Array
+                (
+                    [user] => Array
+                        (
+                            [id] => 5145589614
+                            [is_bot] => 1
+                            [first_name] => Yugkabel
+                            [username] => YugkabelBot
+                        )
+
+                    [status] => kicked
+                    [until_date] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244385
+    [message] => Array
+        (
+            [message_id] => 23672
+            [from] => Array
+                (
+                    [id] => 6104629560
+                    [is_bot] => 
+                    [first_name] => Я
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 6104629560
+                    [first_name] => Я
+                    [type] => private
+                )
+
+            [date] => 1680258761
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244386
+    [message] => Array
+        (
+            [message_id] => 24018
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1681815751
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244387
+    [message] => Array
+        (
+            [message_id] => 24019
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1681816755
+            [sticker] => Array
+                (
+                    [width] => 512
+                    [height] => 512
+                    [emoji] => 👋
+                    [set_name] => memeyad
+                    [is_animated] => 
+                    [is_video] => 1
+                    [type] => regular
+                    [thumbnail] => Array
+                        (
+                            [file_id] => AAMCAgADGQEAAl3TZD58s5DUDCoLd5_bK-9fcKGQd3AAAqwXAAIK0BFKgbLSqjdM4WoBAAdtAAMvBA
+                            [file_unique_id] => AQADrBcAAgrQEUpy
+                            [file_size] => 4558
+                            [width] => 320
+                            [height] => 320
+                        )
+
+                    [thumb] => Array
+                        (
+                            [file_id] => AAMCAgADGQEAAl3TZD58s5DUDCoLd5_bK-9fcKGQd3AAAqwXAAIK0BFKgbLSqjdM4WoBAAdtAAMvBA
+                            [file_unique_id] => AQADrBcAAgrQEUpy
+                            [file_size] => 4558
+                            [width] => 320
+                            [height] => 320
+                        )
+
+                    [file_id] => CAACAgIAAxkBAAJd02Q-fLOQ1AwqC3ef2yvvX3ChkHdwAAKsFwACCtARSoGy0qo3TOFqLwQ
+                    [file_unique_id] => AgADrBcAAgrQEUo
+                    [file_size] => 80225
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244388
+    [message] => Array
+        (
+            [message_id] => 24020
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1681817972
+            [text] => .
+        )
+
+)
+Array
+(
+    [update_id] => 235244389
+    [message] => Array
+        (
+            [message_id] => 24022
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1681818909
+            [text] => Сам пипка
+        )
+
+)
+Array
+(
+    [update_id] => 235244416
+    [message] => Array
+        (
+            [message_id] => 24087
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682318843
+            [text] => Да|НЗ00-002244
+        )
+
+)
+Array
+(
+    [update_id] => 235244417
+    [message] => Array
+        (
+            [message_id] => 24090
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682319216
+            [text] => Да|НЗ00-002259
+        )
+
+)
+Array
+(
+    [update_id] => 235244418
+    [message] => Array
+        (
+            [message_id] => 24093
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682319251
+            [text] => Да|НЗ00-002259
+        )
+
+)
+Array
+(
+    [update_id] => 235244435
+    [message] => Array
+        (
+            [message_id] => 24114
+            [from] => Array
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1682403019
+            [text] => 123
+        )
+
+)
+Array
+(
+    [update_id] => 235244419
+    [message] => Array
+        (
+            [message_id] => 24098
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682319654
+            [text] => Да|ПБ00-001812
+        )
+
+)
+Array
+(
+    [update_id] => 235244427
+    [message] => Array
+        (
+            [message_id] => 24103
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682401787
+            [text] => Да|НЗ00-002128
+        )
+
+)
+Array
+(
+    [update_id] => 235244436
+    [message] => Array
+        (
+            [message_id] => 24115
+            [from] => Array
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1682403072
+            [text] => Прп
+        )
+
+)
+Array
+(
+    [update_id] => 235244431
+    [message] => Array
+        (
+            [message_id] => 24111
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682402662
+            [text] => Да|НЗ00-002128
+        )
+
+)
+Array
+(
+    [update_id] => 235244432
+    [message] => Array
+        (
+            [message_id] => 24112
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682402733
+            [text] => .
+        )
+
+)
+Array
+(
+    [update_id] => 235244434
+    [message] => Array
+        (
+            [message_id] => 24113
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682402860
+            [text] => Да|НЗ00-002128
+        )
+
+)
+Array
+(
+    [update_id] => 235244437
+    [message] => Array
+        (
+            [message_id] => 24116
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682403098
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244438
+    [message] => Array
+        (
+            [message_id] => 24117
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682403109
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244439
+    [message] => Array
+        (
+            [message_id] => 24118
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682403681
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244440
+    [callback_query] => Array
+        (
+            [id] => 1839165837895273154
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 24101
+                    [from] => Array
+                        (
+                            [id] => 5145589614
+                            [is_bot] => 1
+                            [first_name] => Yugkabel
+                            [username] => YugkabelBot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 428214165
+                            [first_name] => LOAD
+                            [last_name] => PWNZ (Мишаня)
+                            [username] => Mikhail_Khitailov
+                            [type] => private
+                        )
+
+                    [date] => 1682401760
+                    [text] => От: Хитайлов М. Е.
+Заказ № НЗ00-002128 от 17.04.2023 9:52:38
+Сумма документа: 1 096,99
+Клиент с кодом: 00-00063491. Название: Вагин Евгений Валентинович
+Договор с суммой кредита: 0
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => ↻ Обновить
+                                                    [callback_data] => refresh
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => 6208102261569920063
+            [data] => refresh
+        )
+
+)
+Array
+(
+    [update_id] => 235244441
+    [callback_query] => Array
+        (
+            [id] => 1839165837394390280
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [message] => Array
+                (
+                    [message_id] => 24101
+                    [from] => Array
+                        (
+                            [id] => 5145589614
+                            [is_bot] => 1
+                            [first_name] => Yugkabel
+                            [username] => YugkabelBot
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 428214165
+                            [first_name] => LOAD
+                            [last_name] => PWNZ (Мишаня)
+                            [username] => Mikhail_Khitailov
+                            [type] => private
+                        )
+
+                    [date] => 1682401760
+                    [text] => От: Хитайлов М. Е.
+Заказ № НЗ00-002128 от 17.04.2023 9:52:38
+Сумма документа: 1 096,99
+Клиент с кодом: 00-00063491. Название: Вагин Евгений Валентинович
+Договор с суммой кредита: 0
+                    [reply_markup] => Array
+                        (
+                            [inline_keyboard] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [text] => ↻ Обновить
+                                                    [callback_data] => refresh
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [chat_instance] => 6208102261569920063
+            [data] => refresh
+        )
+
+)
+Array
+(
+    [update_id] => 235244443
+    [message] => Array
+        (
+            [message_id] => 24119
+            [from] => Array
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 428214165
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [type] => private
+                )
+
+            [date] => 1682404159
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [update_id] => 235244444
+    [message] => Array
+        (
+            [message_id] => 24120
+            [from] => Array
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1682404170
+            [text] => йфцуйц
+        )
+
+)
+Array
+(
+    [update_id] => 235244445
+    [message] => Array
+        (
+            [message_id] => 24121
+            [from] => Array
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1682404207
+            [text] => 2134
+        )
+
+)
+Array
+(
+    [update_id] => 235244446
+    [message] => Array
+        (
+            [message_id] => 24122
+            [from] => Array
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1682404490
+            [text] => апар
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235244471
+    [message] => stdClass Object
+        (
+            [message_id] => 24460
+            [from] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1684489530
+            [text] => Ff
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235244474
+    [message] => stdClass Object
+        (
+            [message_id] => 24461
+            [from] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1684489874
+            [text] => Ff
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235244475
+    [message] => stdClass Object
+        (
+            [message_id] => 24462
+            [from] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1684489979
+            [text] => Fg
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235244477
+    [message] => stdClass Object
+        (
+            [message_id] => 24463
+            [from] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1684490568
+            [text] => Gg
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235244484
+    [message] => stdClass Object
+        (
+            [message_id] => 24580
+            [from] => stdClass Object
+                (
+                    [id] => 5292809379
+                    [is_bot] => 
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 5292809379
+                    [first_name] => Дмитрий Вячеславович
+                    [last_name] => Елисеев
+                    [type] => private
+                )
+
+            [date] => 1685530580
+            [text] => Да|ЭЛ00-008638
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235244736
+    [message] => stdClass Object
+        (
+            [message_id] => 35504
+            [from] => stdClass Object
+                (
+                    [id] => 5196559105
+                    [is_bot] => 
+                    [first_name] => 61263
+                    [last_name] => Самойленко
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 5196559105
+                    [first_name] => 61263
+                    [last_name] => Самойленко
+                    [type] => private
+                )
+
+            [date] => 1693807726
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245104
+    [message] => stdClass Object
+        (
+            [message_id] => 36759
+            [from] => stdClass Object
+                (
+                    [id] => 1224740956
+                    [is_bot] => 
+                    [first_name] => ЮгКабель
+                    [last_name] => Электроматериалы
+                    [username] => YugkabelMarketing
+                    [language_code] => ru
+                    [is_premium] => 1
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1224740956
+                    [first_name] => ЮгКабель
+                    [last_name] => Электроматериалы
+                    [username] => YugkabelMarketing
+                    [type] => private
+                )
+
+            [date] => 1702549127
+            [text] => X
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245116
+    [message] => stdClass Object
+        (
+            [message_id] => 2
+            [from] => stdClass Object
+                (
+                    [id] => 428214165
+                    [is_bot] => 
+                    [first_name] => LOAD
+                    [last_name] => PWNZ (Мишаня)
+                    [username] => Mikhail_Khitailov
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => -1002141433805
+                    [title] => 🔔Звонки ЮгКабель
+                    [type] => supergroup
+                )
+
+            [date] => 1702646496
+            [text] => 1
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245132
+    [message] => stdClass Object
+        (
+            [message_id] => 36885
+            [from] => stdClass Object
+                (
+                    [id] => 1224740956
+                    [is_bot] => 
+                    [first_name] => ЮгКабель
+                    [last_name] => Электроматериалы
+                    [username] => YugkabelMarketing
+                    [language_code] => ru
+                    [is_premium] => 1
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1224740956
+                    [first_name] => ЮгКабель
+                    [last_name] => Электроматериалы
+                    [username] => YugkabelMarketing
+                    [type] => private
+                )
+
+            [date] => 1703137566
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245143
+    [message] => stdClass Object
+        (
+            [message_id] => 36972
+            [from] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [is_bot] => 
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1569407398
+                    [first_name] => Геннадий
+                    [username] => RysenkoG
+                    [type] => private
+                )
+
+            [date] => 1703511990
+            [text] => Кк
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245144
+    [message] => stdClass Object
+        (
+            [message_id] => 36973
+            [from] => stdClass Object
+                (
+                    [id] => 6837636583
+                    [is_bot] => 
+                    [first_name] => Юг
+                    [last_name] => Кабель
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 6837636583
+                    [first_name] => Юг
+                    [last_name] => Кабель
+                    [type] => private
+                )
+
+            [date] => 1703512156
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245145
+    [message] => stdClass Object
+        (
+            [message_id] => 36974
+            [from] => stdClass Object
+                (
+                    [id] => 6837636583
+                    [is_bot] => 
+                    [first_name] => Юг
+                    [last_name] => Кабель
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 6837636583
+                    [first_name] => Юг
+                    [last_name] => Кабель
+                    [type] => private
+                )
+
+            [date] => 1703512162
+            [text] => T
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245146
+    [message] => stdClass Object
+        (
+            [message_id] => 36975
+            [from] => stdClass Object
+                (
+                    [id] => 6837636583
+                    [is_bot] => 
+                    [first_name] => Юг
+                    [last_name] => Кабель
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 6837636583
+                    [first_name] => Юг
+                    [last_name] => Кабель
+                    [type] => private
+                )
+
+            [date] => 1703512255
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245148
+    [message] => stdClass Object
+        (
+            [message_id] => 37005
+            [from] => stdClass Object
+                (
+                    [id] => 854742634
+                    [is_bot] => 
+                    [first_name] => Nick
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 854742634
+                    [first_name] => Nick
+                    [type] => private
+                )
+
+            [date] => 1703591545
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245149
+    [message] => stdClass Object
+        (
+            [message_id] => 37006
+            [from] => stdClass Object
+                (
+                    [id] => 854742634
+                    [is_bot] => 
+                    [first_name] => Nick
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 854742634
+                    [first_name] => Nick
+                    [type] => private
+                )
+
+            [date] => 1703591548
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245151
+    [message] => stdClass Object
+        (
+            [message_id] => 37007
+            [from] => stdClass Object
+                (
+                    [id] => 1822653540
+                    [is_bot] => 
+                    [first_name] => Александр
+                    [last_name] => Первый
+                    [username] => first_alexandr
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1822653540
+                    [first_name] => Александр
+                    [last_name] => Первый
+                    [username] => first_alexandr
+                    [type] => private
+                )
+
+            [date] => 1703591587
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245152
+    [message] => stdClass Object
+        (
+            [message_id] => 37008
+            [from] => stdClass Object
+                (
+                    [id] => 1822653540
+                    [is_bot] => 
+                    [first_name] => Александр
+                    [last_name] => Первый
+                    [username] => first_alexandr
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1822653540
+                    [first_name] => Александр
+                    [last_name] => Первый
+                    [username] => first_alexandr
+                    [type] => private
+                )
+
+            [date] => 1703591593
+            [text] => 1
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245155
+    [message] => stdClass Object
+        (
+            [message_id] => 37027
+            [from] => stdClass Object
+                (
+                    [id] => 5276488569
+                    [is_bot] => 
+                    [first_name] => КотЛета
+                    [username] => YaP_izdat
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 5276488569
+                    [first_name] => КотЛета
+                    [username] => YaP_izdat
+                    [type] => private
+                )
+
+            [date] => 1703654062
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245156
+    [message] => stdClass Object
+        (
+            [message_id] => 37028
+            [from] => stdClass Object
+                (
+                    [id] => 854742634
+                    [is_bot] => 
+                    [first_name] => Nick
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 854742634
+                    [first_name] => Nick
+                    [type] => private
+                )
+
+            [date] => 1703656608
+            [text] => Я
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245160
+    [message] => stdClass Object
+        (
+            [message_id] => 37083
+            [from] => stdClass Object
+                (
+                    [id] => 1165246811
+                    [is_bot] => 
+                    [first_name] => Артур
+                    [username] => Teddy_Bears7
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1165246811
+                    [first_name] => Артур
+                    [username] => Teddy_Bears7
+                    [type] => private
+                )
+
+            [date] => 1703825353
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 235245175
+    [message] => stdClass Object
+        (
+            [message_id] => 37594
+            [from] => stdClass Object
+                (
+                    [id] => 1822653540
+                    [is_bot] => 
+                    [first_name] => Александр
+                    [last_name] => Первый
+                    [username] => first_alexandr
+                    [language_code] => ru
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1822653540
+                    [first_name] => Александр
+                    [last_name] => Первый
+                    [username] => first_alexandr
+                    [type] => private
+                )
+
+            [date] => 1705223774
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)

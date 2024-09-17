@@ -1,0 +1,2 @@
+{"update_id":235245246,
+"my_chat_member":{"chat":{"id":1242037573,"first_name":"JEKA","username":"JEKA_JEKa9","type":"private"},"from":{"id":1242037573,"is_bot":false,"first_name":"JEKA","username":"JEKA_JEKa9","language_code":"ru"},"date":1714748452,"old_chat_member":{"user":{"id":5145589614,"is_bot":true,"first_name":"Yugkabel","username":"YugkabelBot"},"status":"member"},"new_chat_member":{"user":{"id":5145589614,"is_bot":true,"first_name":"Yugkabel","username":"YugkabelBot"},"status":"kicked","until_date":0}}}

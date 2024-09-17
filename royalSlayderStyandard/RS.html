@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">  
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>RoyalSlider – мощный слайдер для твоего сайта</title>
+<meta name="viewport" content="width = device-width, initial-scale = 1.0">
+<link href="RS/royalsli.css" rel="stylesheet">
+<script src="RS/jquery-1.js"></script>
+<script src="RS/jquery00.js"></script>   
+<link href="RS/reset000.css" rel="stylesheet">
+<link href="RS/rs-defau.css" rel="stylesheet">  
+</head>
+  <body class="home-page">
+
+<div class="full-width-wrap clearfix">
+  <div class="row wrapper">
+    <div class=" col span_4 fwImage">
+      <div id="homeSlider" class="royalSlider rsDefaultInv">
+        
+        <div class="rsContent" id="bx_651765591_224939">
+          <a class="rsImg"  href="https://yugkabel.ru/upload/resize_cache/iblock/a5d/893_334_240cd750bba9870f18aada2478b24840a/u56d2ufbgxnkanhac09bfz03l81xb8ch.jpg">
+            <a class="example-link" href="https://yugkabel.ru/notices/dlya-im/podarki-za-pokupki-schneider-electric/" class="link">Подробнее</a>
+            <div class="rsTmb">
+              <p>За покупки SE онлайн</p>
+              <span></span>
+            </div>
+          </a>
+        </div>
+
+        <div class="rsContent" id="bx_651765591_227627">
+          <a class="rsImg"  href="https://yugkabel.ru/upload/resize_cache/iblock/8ee/893_334_240cd750bba9870f18aada2478b24840a/cygo6ru5o7993dyw2366cjfdl51s6grw.jpg">
+            <a class="example-link" href="https://yugkabel.ru/notices/vybiray-bonusy-ili-skidku-ot-feron-i-stekker/" class="link">Подробнее</a>
+            <div class="rsTmb">
+              <p>СКИДКА или БОНУСЫ!</p>
+              <span></span>
+            </div>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+jQuery(document).ready(function($) {
+var opts = {
+controlNavigation:'thumbnails',
+imageScaleMode: 'fill',
+arrowsNav: false,
+arrowsNavHideOnTouch: true,
+fullscreen: false,
+loop: false,
+thumbs: {
+  firstMargin: false,
+  paddingBottom: 0
+},
+
+numImagesToPreload: 3,
+  autoPlay: {
+    enabled: true,
+    pauseOnHover: true
+  },
+thumbsFirstMargin: false,
+autoScaleSlider: true,
+autoScaleSliderWidth: 960,
+autoScaleSliderHeight: 400,
+keyboardNavEnabled: true,
+navigateByClick: true,
+fadeinLoadedSlide: true,
+//imgWidth: 707,
+//imgHeight: 397
+  };
+  ///* if(!$.browser.webkit) {
+//opts.imgWidth = 707;
+//opts.imgHeight = 397;
+  //} */
+  var sliderJQ = $('#homeSlider').royalSlider(opts);
+});
+</script>
+
+</body>
+</html>

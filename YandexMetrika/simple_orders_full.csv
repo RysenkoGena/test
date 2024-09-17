@@ -1,0 +1,5 @@
+id,create_date_time,client_uniq_id,client_ids,emails,phones,order_status,revenue,cost
+s_ord1,10.01.2022 11:59,s_user1,,"mail@example.com,mail2@example.com",,PAID,200,150
+s_ord2,10.02.2022 11:59,,12345,mail@example.com,,,200,150
+,12.02.2022 11:59,,34456,,79876543210,SPAM,,
+135067

@@ -1,0 +1,2 @@
+{"update_id":235245114,
+"message":{"message_id":36800,"from":{"id":428214165,"is_bot":false,"first_name":"LOAD","last_name":"PWNZ (\u041c\u0438\u0448\u0430\u043d\u044f)","username":"Mikhail_Khitailov","language_code":"ru"},"chat":{"id":-4021522158,"title":"\ud83d\udd14\u0417\u0432\u043e\u043d\u043a\u0438 \u042e\u0433\u041a\u0430\u0431\u0435\u043b\u044c","type":"group","all_members_are_administrators":false},"date":1702645030,"migrate_to_chat_id":-1002141433805}}

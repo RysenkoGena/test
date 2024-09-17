@@ -1,0 +1,2 @@
+{"update_id":235245149,
+"message":{"message_id":37006,"from":{"id":854742634,"is_bot":false,"first_name":"Nick","language_code":"ru"},"chat":{"id":854742634,"first_name":"Nick","type":"private"},"date":1703591548,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}

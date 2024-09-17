@@ -1,0 +1,2 @@
+{"update_id":235245160,
+"message":{"message_id":37083,"from":{"id":1165246811,"is_bot":false,"first_name":"\u0410\u0440\u0442\u0443\u0440","username":"Teddy_Bears7","language_code":"ru"},"chat":{"id":1165246811,"first_name":"\u0410\u0440\u0442\u0443\u0440","username":"Teddy_Bears7","type":"private"},"date":1703825353,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}

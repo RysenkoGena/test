@@ -1,0 +1,13 @@
+[20-Jul-2022 11:36:29 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[20-Jul-2022 11:38:33 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:17:45 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:17:45 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bitrix/ext_www/yugkabel.ru/test/monitoring/checkObmen.php on line 26
+[19-Aug-2022 16:19:42 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:19:42 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bitrix/ext_www/yugkabel.ru/test/monitoring/checkObmen.php on line 24
+[19-Aug-2022 16:21:10 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:21:10 Europe/Moscow] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bitrix/ext_www/yugkabel.ru/test/monitoring/checkObmen.php on line 24
+[19-Aug-2022 16:21:31 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:22:05 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:22:16 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:22:42 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0
+[19-Aug-2022 16:41:46 Europe/Moscow] PHP Deprecated:  The mbstring.func_overload directive is deprecated in Unknown on line 0

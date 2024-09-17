@@ -1,0 +1,2 @@
+{"update_id":235245146,
+"message":{"message_id":36975,"from":{"id":6837636583,"is_bot":false,"first_name":"\u042e\u0433","last_name":"\u041a\u0430\u0431\u0435\u043b\u044c","language_code":"ru"},"chat":{"id":6837636583,"first_name":"\u042e\u0433","last_name":"\u041a\u0430\u0431\u0435\u043b\u044c","type":"private"},"date":1703512255,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}

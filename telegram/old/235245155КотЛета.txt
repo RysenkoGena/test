@@ -1,0 +1,2 @@
+{"update_id":235245155,
+"message":{"message_id":37027,"from":{"id":5276488569,"is_bot":false,"first_name":"\u041a\u043e\u0442\u041b\u0435\u0442\u0430","username":"YaP_izdat","language_code":"ru"},"chat":{"id":5276488569,"first_name":"\u041a\u043e\u0442\u041b\u0435\u0442\u0430","username":"YaP_izdat","type":"private"},"date":1703654062,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}

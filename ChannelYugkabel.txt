@@ -1,0 +1,41 @@
+Array
+(
+    [update_id] => 235244340
+    [message] => Array
+        (
+            [message_id] => 760
+            [from] => Array
+                (
+                    [id] => 1224740956
+                    [is_bot] => 
+                    [first_name] => ЮгКабель
+                    [last_name] => Электроматериалы
+                    [username] => YugkabelMarketing
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1224740956
+                    [first_name] => ЮгКабель
+                    [last_name] => Электроматериалы
+                    [username] => YugkabelMarketing
+                    [type] => private
+                )
+
+            [date] => 1650361791
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)

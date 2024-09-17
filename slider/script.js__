@@ -1,0 +1,56 @@
+const images = document.querySelectorAll('.cadr');
+const videos = document.querySelectorAll('video.cadr');
+console.log(videos);
+
+let sliderLine = document.getElementById('slider_line');
+//console.log(sliderLine);
+
+let count = 0;
+let width;
+
+function init(){
+    //console.log('resize');
+    width = document.querySelector('.slider').offsetWidth;
+    sliderLine.style.width = width*images.length + 'px';
+    images.forEach(item => {
+        item.style.width = width + 'px';
+        item.style.height = 'auto';
+    })
+    //console.log(width);
+    rollSlider();
+}
+
+window.addEventListener('resize', init);
+
+init();
+
+document.querySelector('.slider-next').addEventListener('click', function(){
+    console.log(count);
+    count++;
+    if(count >= images.length)
+        count = 0;
+    rollSlider();
+})
+
+document.querySelector('.slider-prev').addEventListener('click', function(){
+    console.log(count);
+    count--;
+    if(count < 0)
+        count = images.length - 1;
+    rollSlider();
+})
+
+function rollSlider(){
+    //console.log(count * width );
+    videos.forEach(item =>{
+        item.pause();
+        }
+
+    )
+    let sliderLine = document.getElementById('slider_line');
+    let a = 'translate(-' + count * width  + 'px)';
+    if(count == 3)
+        images[count].play();
+    console.log(images);
+    sliderLine.style.transform = a;
+}

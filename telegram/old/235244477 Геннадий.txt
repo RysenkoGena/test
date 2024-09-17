@@ -1,0 +1,2 @@
+{"update_id":235244477,
+"message":{"message_id":24463,"from":{"id":1569407398,"is_bot":false,"first_name":"\u0413\u0435\u043d\u043d\u0430\u0434\u0438\u0439","username":"RysenkoG","language_code":"ru"},"chat":{"id":1569407398,"first_name":"\u0413\u0435\u043d\u043d\u0430\u0434\u0438\u0439","username":"RysenkoG","type":"private"},"date":1684490568,"text":"Gg"}}
